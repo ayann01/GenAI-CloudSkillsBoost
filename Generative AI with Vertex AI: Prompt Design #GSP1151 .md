@@ -1,4 +1,5 @@
 # GSP1151
+### Paste the direct link in incognito tab
 ```cmd
 https://console.cloud.google.com/vertex-ai/workbench/user-managed?
 ```
